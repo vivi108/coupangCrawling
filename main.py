@@ -5,8 +5,8 @@ from callURL import getPageString
 # excel_sheet = excel_file.active
 # excel_sheet.append(['랭킹', '상품명', '판매가격', '상품상세링크'])
 
-url = "https://www.coupang.com/np/campaigns/82/components/178354"
-print(getPageString(url))
+# url = "https://www.coupang.com/np/categories/178454"
+# print(getPageString(url))
 
 # res = requests.get(url, headers = headers, verify=False)
 # res.raise_for_status()
